@@ -4,8 +4,9 @@ Forensics 數位鑑識平台
 
 DEFT Linux - Computer Forensics live CD  www.deftlinux.net/
 
-Forenscope: A Framework for Live Forensics - CiteSeerX
-citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.852.7644
+Forenscope: A Framework for Live Forensics 
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1017.4918&rep=rep1&type=pdf
 
 ##   File Forensics 系統鑑識 Media & File System Forensics
 
@@ -23,7 +24,7 @@ can be used to process any digital media like hard drives, SSDs, optical media, 
 
 https://github.com/simsong/bulk_extractor
 
-[2]VTXtract
+[2]EVTXtract
 
 a Python script that tries to recovers and reconstructs fragments of Window Event Log files from raw binary data, including unallocated space and memory images.
 
