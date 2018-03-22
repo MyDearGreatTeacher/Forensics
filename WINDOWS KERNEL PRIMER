@@ -1,0 +1,44 @@
+# BlackHaT2018
+
+https://www.blackhat.com/us-18/training/windows-kernel-primer.html
+
+Windows Kernel Primer - Day 1
+The Restaurant
+Virtual Memory
+Privilege Levels
+Crash Dumps
+LAB Assignment
+Symbols
+Windbg
+Lab Assignment
+Windows Kernel Overview
+System Calls
+Live Kernel Debugging
+Lab Assignment
+Object and Handles
+Linked Lists
+Lab Assignment
+Processes and Threads
+Access Tokens
+ActiveProcessLinks
+Lab Assignment
+DKOM
+Lab Assignment
+
+Windows Kernel Primer - Day 2
+Interrupts and Exceptions
+IRQLs
+User Land
+Lab Assignment
+Pools
+Devices and Drivers
+Lab Assignment
+IRPs
+LiveKD
+Lab Assignment 
+PCR / PRCB
+Damn Vulnerable Windows Driver
+Lab Assignment
+Kernel Security Controls
+Kernel CVEs
+Lab Assignment
