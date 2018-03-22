@@ -69,6 +69,10 @@ Rekall Memory Forensic Framework
 
 https://github.com/google/rekall
 
+LiveKD - Memory Forensics
+
+Introduction to Windbg Series https://www.youtube.com/watch?v=8zBpqc3HkSE
+
 Memory Forensics Tutorial 2 - Dump the Memory by using "Dumpit" https://www.youtube.com/watch?v=rQ7Js_sBE9o
 
 Introduction to Memory Forensics  https://www.youtube.com/watch?v=1PAGcPJFwbE
