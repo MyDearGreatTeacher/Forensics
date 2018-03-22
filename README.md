@@ -11,7 +11,39 @@ citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.852.7644
 
 http://www.forensicswiki.org/wiki/Tools:File_Analysis
 
+File Carving in forensic analysis
 
+File carving is the process of reassembling computer files from fragments in the absence of filesystem metadata
+
+[1]Bulk Extractor 
+
+a forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures, and it can process different parts of the disk in parallel, splitting the disk into 16MiByte pages and processes one page on each available core.
+
+can be used to process any digital media like hard drives, SSDs, optical media, camera cards, cell phones and network packet dumps.
+
+https://github.com/simsong/bulk_extractor
+
+[2]VTXtract
+
+a Python script that tries to recovers and reconstructs fragments of Window Event Log files from raw binary data, including unallocated space and memory images.
+
+runs on Windows, Linux, and MacOS.
+
+https://github.com/williballenthin/EVTXtract
+
+[3]Foremost
+
+a console program to recover files originally developed by the United States Air Force Office of Special Investigations and The Center for Information Systems Security Studies and Research and afterwards opened to the general public.
+
+http://foremost.sourceforge.net/
+
+[4]Scalpel
+
+a file carving and indexing application that runs on Linux and Windows: 
+it performs file carving operations based on patterns that describe particular file or data fragment “types”.
+These patterns may be based on either fixed binary strings or regular expressions.
+
+https://github.com/sleuthkit/scalpel
 
 ##  Network Forensics 網路鑑識
 
